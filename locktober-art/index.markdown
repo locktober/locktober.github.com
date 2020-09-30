@@ -10,4 +10,11 @@ layout: home
 
 Locktober.Art - The Art of Locking is site inspired and around Locktober event, taking part every year in October. During this event males are voluntarily getting locked into male chastity for period of month. This is time for sexual rediscovery for couples and creativity.
 
+You may like to explore:
+
+* [What is locktober?](/locktober.html)
+* [Links to forums](resources/links/forums.html)
+
 This is early version and anyway project will be done in spare moments, so please be mindful of bugs and unpolish.
+
+Below blog posts:
