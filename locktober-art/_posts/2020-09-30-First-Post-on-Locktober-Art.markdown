@@ -10,4 +10,4 @@ Hello!
 For the occasion of coming Locktober 2020, I started setting up Locktober.Art.
 [Here you can read what is Locktober][what-is-locktober].
 
-[what-is-locktober]: ../../../../locktober.html
+[what-is-locktober]: /locktober.html
