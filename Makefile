@@ -10,5 +10,5 @@ preview:
 favicon.ico: favicon.ppm
 	ppmtowinicon -output favicon.ico favicon.ppm
 
-favicon.ppm: assets/img/2020/Locktober_logo_pumpkin_just_pumpkin_16x16.ppm
+favicon.ppm: assets/img/2020/Locktober_logo_pumpkin_just_pumpkin_32x32.ppm
 	cp -v "$<" "$@"
