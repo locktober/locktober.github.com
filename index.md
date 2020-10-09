@@ -6,7 +6,7 @@ title: Entry
 layout: empty
 ---
 
-![Locktober pumpkin logo](/assets/img/2020/Locktober_logo_pumpkin.jpg)
+![Locktober pumpkin logo](/assets/img/2020/Locktober_logo_pumpkin.png)
 
 # CONFIRM YOU ARE 18+ old ADULT!
 you confirm you are adult and you express consent to being exposed to sex related content.

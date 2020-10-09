@@ -15,7 +15,7 @@ immature adults only. Viewer Discretion is Advised.");
     }
 </script>
 
-![Locktober pumpkin logo](/assets/img/2020/Locktober_logo_pumpkin.jpg)
+![Locktober pumpkin logo](/assets/img/2020/Locktober_logo_pumpkin.png)
 
 Locktober.Art - The Art of Locking is site inspired and around Locktober event, taking part every year in October. During this event males are voluntarily getting locked into male chastity for period of month. This is time for sexual rediscovery for couples and creativity.
 
