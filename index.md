@@ -2,28 +2,20 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Welcome page
-layout: home
+title: Welcome page - Locktober.Art
+layout: empty
 ---
 
-<!-- https://stackoverflow.com/a/56389504 -->
-<script>
-    if(sessionStorage.getItem('showAlert') != "false"){
-        alert("WARNING! Adult Language and Content! The following is intended for 
-immature adults only. Viewer Discretion is Advised.");
-        sessionStorage.setItem('showAlert', "false");
-    }
-</script>
+# CONFIRM YOU ARE 18+ old ADULT!
+you confirm you are adult and you express consent to being exposed to sex related content.
 
-![Locktober pumpkin logo](/assets/img/2020/Locktober_logo_pumpkin.jpg)
+# THIS PAGE IS NSFW
+NSFW - not safe for work, as contains adult related materials.
 
-Locktober.Art - The Art of Locking is site inspired and around Locktober event, taking part every year in October. During this event males are voluntarily getting locked into male chastity for period of month. This is time for sexual rediscovery for couples and creativity.
+# Confirm
 
-You may like to explore:
 
-* [What is locktober?](/locktober.html)
-* [Links to forums](resources/links/forums.html)
+## [YES, I confirm I want to enter this site on my own responsibility](/welcome.html)
 
-This is early version and anyway project will be done in spare moments, so please be mindful of bugs and unpolish.
+## [NO, take me away to privacy crash course](https://spreadprivacy.com/tag/privacy-newsletter/)
 
-Below blog posts:
