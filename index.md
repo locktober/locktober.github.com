@@ -2,9 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Welcome page - Locktober.Art
+title: Entry
 layout: empty
 ---
+
+![Locktober pumpkin logo](/assets/img/2020/Locktober_logo_pumpkin.jpg)
 
 # CONFIRM YOU ARE 18+ old ADULT!
 you confirm you are adult and you express consent to being exposed to sex related content.
