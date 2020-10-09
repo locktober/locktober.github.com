@@ -23,6 +23,7 @@ You may like to explore:
 
 * [What is locktober?](/locktober.html)
 * [Links to forums](resources/links/forums.html)
+* [Merchandise and other gadgets on Etsy.com](https://www.etsy.com/shop/locktober) - wear proudly and support our site :)
 
 This is early version and anyway project will be done in spare moments, so please be mindful of bugs and unpolish.
 
