@@ -34,4 +34,8 @@ You may like to explore:
 
 This is early version and anyway project will be done in spare moments, so please be mindful of bugs and unpolish.
 
+This page ( [Locktober.Art](https://Locktober.Art) ) has mirrors [Locktober.github.io](https://Locktober.github.io/) , [Locktober.gitlab.io](https://Locktober.gitlab.io/)
+and sources (feel free to contribute) available [gitlab.com/Locktober](https://gitlab.com/Locktober) , [github.com/Locktober](https://github.com/Locktober) .
+
+
 Below blog posts:
