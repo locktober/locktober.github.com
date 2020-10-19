@@ -28,7 +28,7 @@ Site is to help collect links, resources for enthusiasts.
 You may like to explore:
 
 * [What is locktober?](/locktober.html)
-* [Links to forums](resources/links/forums.html)
+* [Links](resources/links/misc.html)
 * [Merchandise and other gadgets on Etsy.com](https://www.etsy.com/shop/locktober) - wear proudly and support our site :)
 * [Graphics assets](/graphics_assets.html) - so you can create your own: calendars, signs, cards, tshirts... etc.
 
