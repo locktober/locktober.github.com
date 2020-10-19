@@ -5,7 +5,7 @@ layout: default
 
 Graphics assets that you may find useful when creating own calendars, sign, tshirts, cards...
 
-When you click on any asset, you will see more details and quiet often they have multiple variations. You can download those files directly from gallery.
+Check **variations** of assets! When you click on any asset, you will see more details and quiet often they have multiple variations. You can download those files directly from gallery.
 
 <!-- todo: https://stackoverflow.com/a/9976309 to adjust size of iframe -->
 
