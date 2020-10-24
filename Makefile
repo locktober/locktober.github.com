@@ -2,7 +2,7 @@
 
 # runs local 127.0.0.1:4000 server for preview:
 build: favicon.ico
-	jekyll build
+	bundle exec jekyll build
 
 preview:
 	bundle exec jekyll serve
