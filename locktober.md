@@ -1,18 +1,18 @@
 ---
-title: "About Locktober"
+title: About Locktober
 layout: default
----
 
+---
 # What is Locktober?
 
-*Locktober* event takes place every year in *October*.
-During this event males are voluntarily getting *locked*
-into [male chastity][wiki-cage] for period of month.
+_Locktober_ event takes place every year in _October_.
+During this event males are voluntarily getting _locked_
+into [male chastity](https://en.wikipedia.org/wiki/Chastity_belt_(BDSM)#Chastity_cages) for period of month.
 This is time for sexual rediscovery for couples and creativity.
 
 # How to start?
 
-Just get locked into chastity cage (or if female, chastity belt) for period of October.
+Just get locked into _chastity cage_ (or if female, chastity belt) for period of October.
 Of course you may schedule "maintenance breaks" for cleaning equipment (and you should if you are not familiar how to do this inside cage).
 
 Your keyholder can be: partner, friend, keyholder service or time lock (with last option, still may be good to keep second pair of keys with friend or other safety solution).
@@ -24,5 +24,3 @@ Still, there is some charm of doing this together.
 
 Second of all, yes, there are follow up events or NOvember and De(nied)cember.
 Many people enjoy so much October, that they later extend it to whole quarter, and later just continue as lifestyle.
-
-[wiki-cage]: https://en.wikipedia.org/wiki/Chastity_belt_(BDSM)#Chastity_cages
